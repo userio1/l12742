@@ -5,16 +5,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlis
 #EXTINF:-1 channel-id="samsung-USAJ2200020N4" tvg-id="USAJ2200020N4" tvg-chno="1256" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/USAJ2200020N4_20220330T044718.png" group-title="Latino",Estrella News     s
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 Locales:
-#EXTINF:-1 channel-id="samsung-USBA300040WR" tvg-id="USBA300040WR" tvg-chno="1255" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/USBA300040WR_20220330T044722.png" group-title="Locales",Estrella TV
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png",Estrella TV   opc 2
 https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" group-title="Locales",Estrella News   opc 2
+https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://" group-title="Locales",Mariavision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 #EXTINF:-1 tvg-logo="https://" group-title="Locales",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://" group-title="Locales",UniVis-41
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://" group-title="Locales",TeleXitos
-https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
 Plutotv us:
 #EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="901" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Películas",Cine Premiere
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -378,3 +376,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16us-samsungus/pl
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_cineromantico_001.m3u8?ads.caid=CineRomantico&ads.csid=samsungtvplus_us_cineromantico_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=movies&ads._fw_content_language=en%2Ces%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2068&ads.xumo_contentName=UpTVCineRomantico&ads.xumo_providerId=2068&ads.xumo_providerName=UpTVCineRomantico&ads.xumo_channelId=9999538&ads.xumo_imdb_genre=Romance&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 channel-id="samsung-USBB44000118M" tvg-id="USBB44000118M" tvg-chno="1284" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB44000118M_20220330T044852.png" group-title="En Latino",PrendeTV Novelas de Oro     s
 https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+Locales:
+#EXTINF:-1 tvg-logo="https://tinyurl.com/un1v1s" group-title="Locales",UniVis-41
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/t3lex1t" group-title="Locales",TeleXitos
+https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
